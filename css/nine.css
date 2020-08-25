@@ -1,0 +1,46 @@
+/* Theme */
+#switcher .theme-click {
+	background-color: #8bc34a;
+}
+/* Buttons*/
+.wb-nav-btn {
+	background-color:  #8bc34a;
+}
+.btn-primary {
+	background-color: #8bc34a;
+}
+.btn-white-primary {
+	color: #8bc34a;
+}
+/* Blog */
+.wb-blog:hover .wb-blog-category {
+	background-color:  #8bc34a;
+}
+/* About Icons */
+.wb-about-content ul>li .fa {
+	color: #8bc34a;
+}
+/* Price Table */
+.wb-price-popular {
+	background-color: #8bc34a;
+}
+/* Icon color */
+.wb-icontext .wb-icon,.navbar-default.wb-primary-navbar .navbar-nav>li>a:hover,.navbar-default.wb-primary-navbar .navbar-nav>li>a:focus {
+	color: #8bc34a;
+}
+
+.wb-primary{
+    color: #8bc34a;
+}
+
+.wb-section-heading .wb-primary {
+    color: #8bc34a;
+}
+
+.wb-subscribe-content h2{
+    color: #8bc34a;
+}
+
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: #8bc34a;
+}
